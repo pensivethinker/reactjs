@@ -12,6 +12,8 @@ function App() {
         </p>
         
         <p>Update!. Hamzah is also agrees with me that he will be working hard to learn HTML, CSS, JavaScript and then React</p>
+
+        <p>Aayan is also start learning HTML, CSS, JavaScript and then React..</p>
         
         <a
           className="App-link"
