@@ -10,6 +10,9 @@ function App() {
         <p>
           Welcome to My react application page by Aurangzeb. Hamzah will be my contributor, In sha allah..
         </p>
+        
+        <p>Update!. Hamzah is also agrees with me that he will be working hard to learn HTML, CSS, JavaScript and then React</p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
